@@ -1,4 +1,5 @@
 #!/bin/sh
 set -e
 
-bin/xterm $@
+chmod +x xterm
+./xterm -bg black -fg white $@
