@@ -2,6 +2,21 @@
 
 Fork of xterm, aquaBSD's default terminal (for the time being).
 
+## Building
+
+Just do this:
+
+```shell
+% sh build.sh
+```
+
+and copy the resulting `package.zpk` to your apps folder.
+
+## Where does `src/` come from?
+
+[Here](https://github.com/ThomasDickey/xterm-snapshots).
+Currently on patch 370.
+
 ## Original README (from 1991)
 
 ### Abandon All Hope, Ye Who Enter Here
