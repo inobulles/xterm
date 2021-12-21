@@ -1,0 +1,13 @@
+{
+	"unique": "aquabsd.alps.xterm",
+
+	"name": "XTerm",
+	"version": "v370",
+	"description": "The xterm program is a terminal emulator for the X Window System originally developed in the mid-1980s",
+	"website": "https://invisible-island.net/xterm/",
+	"author": "\"Far Too Many People\"",
+	"icon": "icon.svg",
+	
+	"start": "system",
+	"entry": "entry.sh"
+}
